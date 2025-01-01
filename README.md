@@ -1,4 +1,3 @@
-
 How to determine which CUDA for computer:
 
 run:
@@ -6,3 +5,9 @@ run:
 nvidia-smi
 
 then check the top right corner
+
+Turn on Virtual Environment
+
+```
+source .venv/bin/activate
+```
