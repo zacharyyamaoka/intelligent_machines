@@ -1,3 +1,5 @@
+Developed on Ubuntu 22.04LTS
+
 How to determine which CUDA for computer:
 
 run:
