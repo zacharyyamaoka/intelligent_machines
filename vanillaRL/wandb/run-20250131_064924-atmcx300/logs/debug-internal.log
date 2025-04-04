@@ -1,0 +1,276 @@
+{"time":"2025-01-31T06:49:26.158887368-08:00","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"/home/zach/intelligent_machines/vanillaRL/wandb/run-20250131_064924-atmcx300/logs/debug-core.log"}
+{"time":"2025-01-31T06:49:26.261826466-08:00","level":"INFO","msg":"created new stream","id":"atmcx300"}
+{"time":"2025-01-31T06:49:26.261861749-08:00","level":"INFO","msg":"stream: started","id":"atmcx300"}
+{"time":"2025-01-31T06:49:26.261890617-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"atmcx300"}
+{"time":"2025-01-31T06:49:26.261890643-08:00","level":"INFO","msg":"handler: started","stream_id":"atmcx300"}
+{"time":"2025-01-31T06:49:26.261921563-08:00","level":"INFO","msg":"sender: started","stream_id":"atmcx300"}
+{"time":"2025-01-31T06:49:26.441664681-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-31T06:49:26.609191208-08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T07:52:35.687967483-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.19.209.19:41996->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-31T07:52:37.992701688-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T07:52:42.338442886-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T07:52:50.789196288-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T07:52:50.889773466-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T07:52:53.049824636-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T07:52:57.621447054-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T07:53:05.930572074-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T07:53:09.601597728-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T07:53:27.54616098-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T07:53:43.045199363-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T07:54:00.266424935-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T10:44:50.964664978-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T10:45:23.029466223-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T10:45:57.338922632-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T10:46:36.028021718-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-01-31T10:47:23.507518245-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T10:48:30.477136341-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T10:50:00.477532403-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T11:00:24.97989582-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.19.209.19:38672->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-31T11:00:25.112924404-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T11:00:30.359848362-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": read tcp 10.19.209.19:35898->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-31T11:42:15.685331773-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T11:49:58.886302761-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.19.209.19:47976->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-31T11:50:00.923016013-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.19.209.19:48722->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-31T11:50:05.102700876-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T11:50:09.91095001-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": read tcp 10.19.209.19:34454->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-31T11:50:11.985453658-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": read tcp 10.19.209.19:34466->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-31T11:50:14.11198514-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T11:50:16.719677829-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T11:50:26.206371226-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T11:50:33.349358426-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T11:50:43.979903623-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T11:51:06.852655716-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.19.209.19:34480->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-31T11:51:20.537446812-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T11:52:06.871421685-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T11:52:20.549179219-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T11:53:06.883457838-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T11:53:20.562388264-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T11:54:06.903499909-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T11:54:20.57451971-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T11:55:06.920061885-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T11:55:20.576702279-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: server misbehaving"}
+{"time":"2025-01-31T11:56:06.932738944-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T11:56:20.588476897-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T11:57:06.953091183-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T11:57:20.599482223-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T11:58:06.964769828-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T11:58:20.610706128-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T11:59:06.977402225-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.19.209.19:49528->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-31T11:59:20.622945877-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T11:59:45.450335516-08:00","level":"WARN","msg":"sender: taking a long time","seconds":600.000386099,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true mailbox_slot:\"5dmchsvcw04p\" connection_id:\"127.0.0.1:40754\")"}
+{"time":"2025-01-31T12:00:06.989312998-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.19.209.19:39620->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-31T12:00:20.634851883-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": read tcp 10.19.209.19:36238->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-31T12:01:07.002804475-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T12:01:20.646833836-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T12:02:07.023384053-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T12:02:20.658322948-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T12:03:07.034895707-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T12:03:20.670960895-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": read tcp 10.19.209.19:34252->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-31T12:04:07.046784995-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.19.209.19:40678->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-31T12:04:20.690060797-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T12:52:51.322175795-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T12:53:04.952725232-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T12:53:51.334237282-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T12:53:51.334335244-08:00","level":"ERROR","msg":"sender: sendStopStatus: failed to get run stopped status: api: failed sending: POST https://api.wandb.ai/graphql giving up after 21 attempt(s): Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T12:53:51.342681982-08:00","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":981.646284048,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true mailbox_slot:\"5dmchsvcw04p\" connection_id:\"127.0.0.1:40754\")"}
+{"time":"2025-01-31T12:54:00.681917075-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T12:54:02.974221898-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T12:54:04.965333914-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T12:54:07.947292479-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T12:54:15.99749128-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T12:54:33.095984926-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T12:55:04.97820689-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T12:55:09.530227886-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T12:56:04.989895865-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T12:56:09.551968505-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T12:57:05.00499774-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T12:57:09.565792483-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.19.209.19:56916->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-31T12:58:05.038537179-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T12:58:09.578267098-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T12:59:05.05038034-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T12:59:09.591349937-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T13:00:05.062928486-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T13:00:09.604138048-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.19.209.19:36944->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-31T13:01:05.083165302-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T13:01:09.616133241-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T13:02:05.093680523-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T13:02:09.634837959-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.19.209.19:42592->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-31T13:03:05.104279964-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T13:03:09.646028106-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T13:04:00.67070118-08:00","level":"WARN","msg":"sender: taking a long time","seconds":600.00047336,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true mailbox_slot:\"31rreli9wvvp\" connection_id:\"127.0.0.1:40754\")"}
+{"time":"2025-01-31T13:04:05.176901285-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": read tcp 10.19.209.19:41778->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-31T13:04:09.666303957-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T13:05:09.76990684-08:00","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":669.09973925,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true mailbox_slot:\"31rreli9wvvp\" connection_id:\"127.0.0.1:40754\")"}
+{"time":"2025-01-31T13:07:45.842985339-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-01-31T13:08:18.045300727-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T13:08:52.386374658-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T13:09:30.901005559-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T13:10:20.567890947-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-01-31T13:11:26.47304627-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T13:12:56.474477813-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T13:14:26.476345853-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T13:15:56.477504424-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T13:17:15.842866533-08:00","level":"WARN","msg":"sender: taking a long time","seconds":600.000898967,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true mailbox_slot:\"gp63hfe1kw8c\" connection_id:\"127.0.0.1:40754\")"}
+{"time":"2025-01-31T13:17:26.478855396-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T13:18:56.480423978-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-01-31T13:20:26.482279432-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-01-31T13:21:56.48443373-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T13:23:26.48602404-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-01-31T13:24:26.639985611-08:00","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":1030.798066121,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true mailbox_slot:\"gp63hfe1kw8c\" connection_id:\"127.0.0.1:40754\")"}
+{"time":"2025-01-31T13:31:31.573671429-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T13:32:03.945128208-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T13:32:38.827017641-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T13:33:17.799474405-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T13:34:06.463980998-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-01-31T13:35:13.051553684-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T13:36:43.052809266-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T13:51:38.292962389-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T13:51:40.460118558-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T13:51:45.055326898-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T13:51:54.966383043-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": read tcp 10.19.209.19:48572->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-31T13:52:12.690124022-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T13:52:45.332773827-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-01-31T13:52:48.066059312-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T13:53:48.07874704-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T13:54:15.334646405-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-01-31T13:54:48.090381687-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T13:55:33.852543947-08:00","level":"WARN","msg":"sender: taking a long time","seconds":600.001077737,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true mailbox_slot:\"3y6mpg0oxq4i\" connection_id:\"127.0.0.1:40754\")"}
+{"time":"2025-01-31T13:55:45.336248779-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T13:55:48.105464127-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T13:56:48.117384489-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T13:57:15.33687051-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T13:57:48.131673225-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T13:58:15.348757107-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T13:58:48.145670683-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T13:59:15.363487606-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T13:59:48.159732817-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:00:15.496691829-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:00:48.17137164-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:02:03.639099976-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: server misbehaving"}
+{"time":"2025-01-31T14:02:36.331734938-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:03:03.648129816-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:03:36.349453296-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:04:03.670696792-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:04:36.360206915-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:05:03.688860644-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.19.209.19:37562->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-31T14:05:36.371745825-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:06:03.701142878-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:06:21.994758689-08:00","level":"WARN","msg":"sender: taking a long time","seconds":1200.002857732,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true mailbox_slot:\"3y6mpg0oxq4i\" connection_id:\"127.0.0.1:40754\")"}
+{"time":"2025-01-31T14:06:36.383847217-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:07:03.713570056-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:07:40.222077816-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:08:03.725039191-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:08:03.72512389-08:00","level":"ERROR","msg":"sender: sendStopStatus: failed to get run stopped status: api: failed sending: POST https://api.wandb.ai/graphql giving up after 21 attempt(s): Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:08:03.725784762-08:00","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":1301.733920695,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true mailbox_slot:\"3y6mpg0oxq4i\" connection_id:\"127.0.0.1:40754\")"}
+{"time":"2025-01-31T14:08:08.80149584-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:08:11.200550117-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:08:15.576675687-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:08:25.327620642-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:08:40.24111489-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:08:42.675502952-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:09:20.309379605-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:09:40.251343941-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:10:20.320854335-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:10:40.2628175-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:11:20.335496998-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.19.213.231:44716->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-31T14:11:40.273339143-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:12:20.34595146-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:12:40.284750264-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:13:20.358290379-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:13:40.304940718-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:14:20.379131838-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:14:40.316159147-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:15:20.389178196-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:15:40.328570445-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:16:20.40128018-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:16:40.348830721-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:17:20.415181862-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.19.209.19:41492->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-31T14:17:40.361479745-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:18:08.79173162-08:00","level":"WARN","msg":"sender: taking a long time","seconds":600.000478216,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true mailbox_slot:\"3yqsuwpvyb1x\" connection_id:\"127.0.0.1:40754\")"}
+{"time":"2025-01-31T14:18:20.427200799-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:18:40.47730497-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:19:20.44061929-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:19:40.501355584-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:20:20.494540097-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:20:40.523767665-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:21:20.545985012-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:21:40.740293333-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:22:20.566780058-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:22:40.756133796-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:23:20.580900479-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:23:40.772932794-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:24:20.594053192-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:24:20.594143785-08:00","level":"ERROR","msg":"sender: sendStopStatus: failed to get run stopped status: api: failed sending: POST https://api.wandb.ai/graphql giving up after 21 attempt(s): Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:24:20.594814014-08:00","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":971.803588741,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true mailbox_slot:\"3yqsuwpvyb1x\" connection_id:\"127.0.0.1:40754\")"}
+{"time":"2025-01-31T14:24:24.071225143-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:24:26.362039415-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:24:31.089006186-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:24:40.783927329-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": read tcp 10.19.209.19:36014->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-31T14:24:40.956755092-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:25:01.972318422-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:25:40.797438894-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:25:41.320524196-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:26:40.809053569-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:26:41.333656392-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:27:40.821823305-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:27:41.345197662-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:28:40.834257912-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:28:41.365483256-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:29:40.846416654-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:29:41.375266335-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:30:40.866039489-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:30:41.394477989-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:31:40.87953169-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:31:41.404920692-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:32:48.342152094-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: read udp 127.0.0.1:44645->127.0.0.53:53: i/o timeout"}
+{"time":"2025-01-31T14:32:48.342102657-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: read udp 127.0.0.1:44645->127.0.0.53:53: i/o timeout"}
+{"time":"2025-01-31T14:33:48.358110322-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:33:48.361666698-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:34:24.062157599-08:00","level":"WARN","msg":"sender: taking a long time","seconds":600.000600361,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true mailbox_slot:\"wzx0qscwlaea\" connection_id:\"127.0.0.1:40754\")"}
+{"time":"2025-01-31T14:34:48.43332114-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:34:48.477829532-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:35:48.451862381-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:35:48.496650608-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:36:48.479564925-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:36:48.509446435-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:37:48.656542503-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:37:48.679074587-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:38:48.698434512-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.19.209.19:41458->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-31T14:38:48.710773983-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:39:48.717116646-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:39:48.719372061-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.19.209.19:34312->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-31T14:40:48.737765125-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:40:48.737848612-08:00","level":"ERROR","msg":"sender: sendStopStatus: failed to get run stopped status: api: failed sending: POST https://api.wandb.ai/graphql giving up after 21 attempt(s): Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:40:48.738535148-08:00","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":984.677011562,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true mailbox_slot:\"wzx0qscwlaea\" connection_id:\"127.0.0.1:40754\")"}
+{"time":"2025-01-31T14:40:48.749844354-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": read tcp 10.19.209.19:58216->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-01-31T14:40:54.389167759-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:40:56.620484849-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:41:01.458051187-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:41:09.549149549-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:41:26.23083908-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:41:48.762729318-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:42:01.702187508-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:42:48.78694302-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:43:01.725304857-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:43:48.808976692-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": EOF"}
+{"time":"2025-01-31T14:44:01.745850243-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": EOF"}
+{"time":"2025-01-31T14:58:13.799024167-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: server misbehaving"}
+{"time":"2025-01-31T15:06:34.659687576-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-01-31T15:07:06.788884509-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T15:07:41.513142306-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-01-31T15:08:21.426508466-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T15:09:09.531950842-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T15:10:17.875230935-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-01-31T15:11:47.877201634-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T15:13:17.878803929-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T15:14:47.880354558-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-01-31T15:16:04.659278666-08:00","level":"WARN","msg":"sender: taking a long time","seconds":600.000546446,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true mailbox_slot:\"7g393wm5hk6s\" connection_id:\"127.0.0.1:40754\")"}
+{"time":"2025-01-31T15:16:17.882078126-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T15:17:47.883804715-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T15:19:17.884630189-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-01-31T16:14:22.643009513-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: server misbehaving"}
+{"time":"2025-01-31T16:14:24.881881477-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: server misbehaving"}
+{"time":"2025-02-01T01:13:10.67167452-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: server misbehaving"}
+{"time":"2025-02-01T01:13:19.013400257-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: server misbehaving"}
+{"time":"2025-02-01T01:13:35.508649509-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-01T01:13:38.402482648-08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/zach-yamaoka-independent/my-awesome-project/atmcx300/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: server misbehaving"}
